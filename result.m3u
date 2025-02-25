@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="虎牙电影直播" ,虎牙电影1
-http://epg.112114.xyz/huya/11602058
+https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 #EXTINF:-1 group-title="虎牙电影直播" ,虎牙电影2
-http://hls.ye23.vip/wl/huya2205.php?id=11342388
+http://123.182.60.29:9002/hls/7/index.m3u8
 #EXTINF:-1 group-title="虎牙电影直播" ,虎牙电影3
-http://hls.ye23.vip/wl/huya2205.php?id=11352965
+http://z.b.bkpcp.top/m.php?id=cctv10
 #EXTINF:-1 group-title="虎牙电影直播" ,虎牙电影3
-	http://epg.112114.xyz/huya/11342412
+http://j.x.bkpcp.top/jx/GUANGDHD
 #EXTINF:-1 group-title="虎牙电影直播" ,虎牙电影4
-http://epg.112114.xyz/huya/11342386
+http://z.b.bkpcp.top/m.php?id=bjws
 #EXTINF:-1 group-title="虎牙电影直播" ,虎牙电影5
-http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=007
+http://39.164.180.36:19901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="虎牙电影直播" ,虎牙电影15
-http://tvbox.netsite.cc/proxy/753065176/753065176.m3u8
+http://z.b.bkpcp.top/m.php?id=cqws
