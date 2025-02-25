@@ -7,3 +7,5 @@ http://178.163.63.245:4022/udp/234.0.0.1:2000
 hhttp://125.42.172.115:808/hls/2/index.m3u8
 #EXTINF:-1 group-title="啥" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png",啊？
 http://125.42.172.115:808/hls/1/index.m3u8
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/香港卫视.png",香港卫视
+http://113.15.187.162:8181/tsfile/live/1107_1.m3u8
