@@ -6,4 +6,4 @@ http://178.163.63.245:4022/udp/234.0.0.1:2000
 #EXTINF:-1 group-title="cctv" tvg-logo="https://live.fanmingming.com/tv/cctv1.png",cctv1
 http://155.248.180.39:8880/TVOD/5000000004000002226/bestzb/index.m3u8?
 #EXTINF:-1 group-title="啥" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png",啊？
-http://www.flyskyman.cn:4022/udp/233.50.200.42:5140
+http://106.42.109.77:2000/rtp/239.16.20.1:10010
