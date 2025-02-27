@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="虎牙电影直播" ,虎牙电影1
+#EXTINF:-1 group-title="直播_010" ,虎牙电影1
 https://cdn5.163189.xyz/live/cctv1/stream.m3u8
-#EXTINF:-1 group-title="虎牙电影直播" ,虎牙电影2
+#EXTINF:-1 group-title="虎牙电影直播_000" ,虎牙电影2
 http://123.182.60.29:9002/hls/7/index.m3u8
-#EXTINF:-1 group-title="虎牙电影直播" ,虎牙电影3
+#EXTINF:-1 group-title="虎牙电影直播_000" ,虎牙电影3
 http://z.b.bkpcp.top/m.php?id=cctv10
 #EXTINF:-1 group-title="虎牙电影直播" ,虎牙电影3
 http://j.x.bkpcp.top/jx/GUANGDHD
